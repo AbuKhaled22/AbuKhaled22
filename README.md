@@ -29,7 +29,7 @@
   <strong>Frontend:</strong> React, Redux, HTML5, CSS3, JavaScript<br>
   <strong>Backend:</strong> Node.js, Express.js, JavaScript<br>
   <strong>Languages:</strong> Java, C++<br>
-  <strong>Tools:</strong> Git, VS Code, npm
+  <strong>Tools:</strong> Git, VS Code, npm<br>
   <strong>Database:</strong> SQL, NoSQL, MongoDB
 </p>
 
