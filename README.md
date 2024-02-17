@@ -2,7 +2,7 @@
 <h1 align="center">🚀 Welcome to ABDULLAH's GitHub! 🚀</h1>
 
 <!-- Description -->
-<p align="center">Experienced Software Engineer | Proficient in React, and Node.js | Skilled in HTML, CSS, JavaScript, Java, and C++</p>
+<p align="center">Experienced Software Engineer | Proficient in React, and Node.js | Skilled in HTML, CSS, JavaScript, Java, and C++, PHP</p>
 
 <!-- Languages & Tools -->
 <p align="center">
@@ -19,7 +19,7 @@
 
 <!-- About -->
 <h2 align="center">About Me</h2>
-<p align="center">Greetings! I am ABDULLAH, an accomplished software engineer with a wealth of experience in crafting robust web applications. My proficiency spans a multitude of technologies, including React, Node.js, HTML, CSS, JavaScript, Java, and C++. With a steadfast commitment to quality and innovation, I strive to deliver exceptional solutions that meet and exceed expectations.</p>
+<p align="center">Greetings! I am ABDULLAH, an accomplished software engineer with a wealth of experience in crafting robust web applications. My proficiency spans a multitude of technologies, including React, Node.js, HTML, CSS, JavaScript, Java, C++, and PHP. With a steadfast commitment to quality and innovation, I strive to deliver exceptional solutions that meet and exceed expectations.</p>
 
 
 <!-- Skills -->
@@ -30,6 +30,7 @@
   <strong>Backend:</strong> Node.js, Express.js, JavaScript<br>
   <strong>Languages:</strong> Java, C++<br>
   <strong>Tools:</strong> Git, VS Code, npm
+  <strong>Database:</strong> SQL, NoSQL, MongoDB
 </p>
 
 <!-- Footer -->
