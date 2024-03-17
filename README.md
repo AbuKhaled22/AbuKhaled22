@@ -30,7 +30,7 @@
   <strong>Backend:</strong> Node.js, Express.js, JavaScript<br>
   <strong>Languages:</strong> Java, C++<br>
   <strong>Tools:</strong> Git, VS Code, npm<br>
-  <strong>Database:</strong> SQL, NoSQL, MongoDB
+  <strong>Database:</strong> MySQL, MongoDB
 </p>
 
 <!-- Footer -->
