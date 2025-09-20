@@ -19,7 +19,8 @@
 
 <!-- About -->
 <h2 align="center">About Me</h2>
-<p align="center">Greetings! I am ABDULLAH, an accomplished software engineer with a wealth of experience in crafting robust web applications. My proficiency spans a multitude of technologies, including React, Node.js, HTML, CSS, JavaScript, Java, C++, and PHP. With a steadfast commitment to quality and innovation, I strive to deliver exceptional solutions that meet and exceed expectations.</p>
+<p align="center">Bachelor of Computer Science (Software Engineering) (Hons) graduate with expertise in software development and web technologies. Skilled in React, Node.js, HTML, CSS, JavaScript, Java, C++, and PHP. Proactive learner with hands-on experience in full-stack web development through coursework, self-directed learning, and personal projects. Strong understanding of the software development lifecycle, agile practices, and collaborative team environments. Seeking a full-time software engineering role to deliver scalable, user-focused solutions and support organizational growth.
+</p>
 
 
 <!-- Skills -->
